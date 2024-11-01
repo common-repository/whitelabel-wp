@@ -1,0 +1,5 @@
+body {background: #fff;}
+div#wpfooter{display:none;}
+li#wp-admin-bar-wp-logo.menupop{display:none;}
+button#contextual-help-link.button.show-settings{display:none;}
+div.ab-sub-wrapper, #adminmenu, #adminmenuback, #adminmenuwrap, .folded #adminmenu .wp-has-current-submenu .wp-submenu, #wpadminbar{background-color:#000;}

@@ -1,0 +1,10 @@
+.login h1 a {display:none;}
+body{background:#000;}
+.login form{background:#0b0c10;}
+a{color:#fff;}
+.login #backtoblog a, .login #nav a{color:#fff;}
+.login label{color:#fff;}
+input#wp-submit.button.button-primary.button-large{background:}
+.wp-core-ui .button-primary {background:#E14D43;color:#000;text-shadow:none;border-color:#000;box-shadow:none;font-weight:bold;}
+.wp-core-ui .button-primary:hover{background:#fff;color:#000;text-shadow:none;border-color:#000;box-shadow:none;font-weight:bold;}
+.login #login_error, .login .message, .login .success{border-color:#E14D43;}
